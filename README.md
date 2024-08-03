@@ -1,3 +1,3 @@
 # first-repository
 <br>
-Author -Dikshita Sharma
+Author -Dikshita Sharma (student)
